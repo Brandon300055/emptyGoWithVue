@@ -17,3 +17,14 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### To start server run:
+`go run .`
+
+### To run build do:
+`cd app`
+`npm run build`
+
+### See full Guid @:
+https://github.com/Brandon300055/emptyGoWithVue
